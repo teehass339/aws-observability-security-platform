@@ -2,7 +2,7 @@
 
 This project demonstrates the design and implementation of a **security-focused, observable AWS infrastructure platform** built using **Terraform** and AWS native services.
 
-The platform goes beyond basic high availability by implementing **centralized logging, audit trails, runtime secrets management, least-privilege IAM, and blast-radius controls**, aligning with real-world enterprise cloud security practices.
+The platform goes beyond basic high availability by implementing **centralised logging, audit trails, runtime secrets management, least privilege IAM, and blast-radius controls**, aligning with real world enterprise cloud security practices.
 
 ## 🎯 Project Objectives
 
